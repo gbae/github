@@ -1,0 +1,50 @@
+
+body
+
+{
+	background-color: #ccccff;
+	background-image: url('../images/circles white.png');
+	font-family: georgia, "Times New Roman", Times, serif;
+	padding-left: 14em;
+	padding-right: 5em;	
+}
+
+h1
+{
+	font-family: Tahoma, Helvetica, Arial, sans-serif;
+}
+
+ul.navbar
+
+{
+	list-style-type: none;
+	position: absolute;
+	top: 2em;
+	left: 1em;
+	width: 10em;
+}
+
+ul.navbar li
+{
+	background: white;
+	margin: 0.5em;
+	padding: 1em;
+	border-left: 1em solid black; 
+}
+
+
+a:link
+{
+	color: #001a00;
+}
+
+a:visited
+{
+	color: #99003d;
+}
+
+img.textwrap
+{
+	float: left;
+	margin: 10px;
+}
